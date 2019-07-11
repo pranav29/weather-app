@@ -55,6 +55,5 @@ window.addEventListener("load", () => {
         skycons.add(weatherIcon, Skycons[currentIcon]);
         skycons.play();
         skycons.set(weatherIcon, Skycons[currentIcon]);
-
     }
 })
